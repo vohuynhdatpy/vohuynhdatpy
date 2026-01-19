@@ -2,15 +2,9 @@
 <h1 align="center">Hi 👋, I'm Võ Huỳnh Đạt</h1>
 <h3 align="center">A passionate backend developer and engineer AI from Phu Yen province in Viet Nam</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vohuynhdatpy&label=Profile%20views&color=0e75b6&style=flat" alt="vohuynhdatpy" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vohuynhdatpy" alt="vohuynhdatpy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [[https://github.com/vohuynhdatpy](https://github.com/vohuynhdatpy)]([https://github.com/vohuynhdatpy](https://github.com/vohuynhdatpy))
-
-- 📝 I regularly write articles on [[https://www.ted.com/](https://www.ted.com/)]([https://www.ted.com/](https://www.ted.com/))
+- 👨‍💻 All of my projects are available at [https://github.com/vohuynhdatpy?tab=repositories](https://github.com/vohuynhdatpy?tab=repositories)
 
 - 💬 Ask me about **Computer Vision,Deep Learning,Machine Learning**
 
@@ -22,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nimbid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimbid/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/nimbid04py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nimbid04py" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="2902" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
